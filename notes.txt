@@ -1,0 +1,3 @@
+npx sb init --builder @storybook/builder-vite --use-npm
+npm install --save clsx
+npm i @storybook/storybook-deployer --save-dev
